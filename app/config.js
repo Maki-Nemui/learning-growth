@@ -1,2 +1,4 @@
-// Only public Supabase URL and publishable (or legacy anon) key belong here.
-export const config={url:'',key:''};
+export const config = {
+  url: 'https://datcbvvciuehygndifem.supabase.co',
+  key: 'sb_publishable_kKXn8axs4zfIREN8Kc6hlA_M3PUx5Pk'
+};
